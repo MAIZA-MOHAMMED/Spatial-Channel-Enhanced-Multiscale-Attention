@@ -6,7 +6,7 @@
 
 **"Efficient Multiscale Attention with Spatial–Channel Reconstruction for Lightweight Object Detection"**
 
-📄 **Paper**: [arXiv link](https://arxiv.org/abs/2501.xxxxx) | 👥 **Authors**: Mohammed MAIZA, Chahira CHERIF, Samira CHOURAQUI, Abdelmalik TALEB-AHMED
+👥 **Authors**: Mohammed MAIZA, Chahira CHERIF, Samira CHOURAQUI, Abdelmalik TALEB-AHMED
 
 ## ✨ Key Features
 
